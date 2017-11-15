@@ -1,2 +1,2 @@
-"Development version 1.0"
+Development version 1.0
 
